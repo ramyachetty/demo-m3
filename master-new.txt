@@ -1,0 +1,5 @@
+Relational (RDBMS)
+NoSQL (Non-relational) DBMS
+Hierarchical DBMS 
+Network DBMS
+Object-Oriented DBMS
